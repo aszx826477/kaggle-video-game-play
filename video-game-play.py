@@ -78,7 +78,7 @@ test_one_hot = test_one_hot.fillna(0.0)
 # ## Part 2 Prepare data for trainning
 # 
 # * `[X_train, y_train]` use to train a basic model
-# * `[X_train_correct, y_train_corretc]` use to train a correction model
+# * `[X_train_correct, y_train_correct]` use to train a correction model
 
 # %%
 # The full trainning dataset. 
