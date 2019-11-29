@@ -15,20 +15,20 @@ The evaluation metric is the root mean-squared error on the testing dataset in h
 The individual project has 20 scores in total. If you submit the result and the code is available on Github, you get at least 10. The other ten scores are “ranking points”. Sorted by ranking, top-1 will get full score (10), while the last get 0 out of 10. The obtained score is uniformly distributed across ranks.
 
 ## File descriptions
-* train.csv - the training set, with the target label column provided named "playtime_forever" in hours.
-* test.csv - the test set, with only features
-* sampleSubmission.csv - a sample submission file in the correct format
+* **train.csv** - the training set, with the target label column provided named "playtime_forever" in hours.
+* **test.csv** - the test set, with only features
+* **sampleSubmission.csv** - a sample submission file in the correct format
 
 ## Data fields
-* is_free - Whether the game is free.
-* price -The price of the game.
-* genres - Genres of the game.
-* categories - Categories of the game according to the video game digital distribution platform.
-* tags - Popular user-defined tags.
-* purchase_date - The date the game was purchased by Jemery.
-* release_date - The release date of the game.
-* total_positive_reviews - The total number of positive reviews received by the game.
-* total_negative_reviews -The total number of negative reviews received by the game.
+* **is_free** - Whether the game is free.
+* **price** -The price of the game.
+* **genres** - Genres of the game.
+* **categories** - Categories of the game according to the video game digital distribution platform.
+* **tags** - Popular user-defined tags.
+* **purchase_date** - The date the game was purchased by Jemery.
+* **release_date** - The release date of the game.
+* **total_positive_reviews** - The total number of positive reviews received by the game.
+* **total_negative_reviews** -The total number of negative reviews received by the game.
 
 ## Tips
 
