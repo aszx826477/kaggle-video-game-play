@@ -1,6 +1,9 @@
 # kaggle-video-game-play
 
-A kaggle competition solution code
+A kaggle competition solution code. Run with commend `python video-game-play.py` or open `video-game-play.ipynb` to run the cell. It will generate two submission csv file `submission_DT_correct.csv` and `submission_RF.csv`.
+
+* Language: python3
+* Required packages: numpy, pandas, sklearn
 
 This competition is the individual project of MSBD 5001. The individual project counts for 20% of the final grade.
 
